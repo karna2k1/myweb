@@ -1,0 +1,12 @@
+#welcome{
+    color: blue;
+    text-align: center;
+}
+.who{
+    background-color: brown;
+    border-style: dashed;
+    width: fit-content;
+}
+#division{
+    background-color:red;
+}
